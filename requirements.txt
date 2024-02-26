@@ -1,0 +1,8 @@
+flask
+flask-SQLAlchemy
+SQLAlchemy
+python-dotenv
+psycopg2-binary
+numpy
+moviepy
+requests
